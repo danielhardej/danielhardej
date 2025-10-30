@@ -20,6 +20,7 @@ I'm a passionate developer who loves building things and solving problems with c
 
 ## 📊 GitHub Stats
 
+<!-- Replace 'yourusername' with your GitHub username in the URLs below -->
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default"/>
@@ -33,4 +34,5 @@ I'm a passionate developer who loves building things and solving problems with c
 
 ---
 
+<!-- Replace 'yourusername' with your actual GitHub username -->
 ⭐️ From [yourusername](https://github.com/yourusername)

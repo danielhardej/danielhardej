@@ -13,7 +13,7 @@ This repository contains awesome templates for your GitHub profile README!
 1. **For GitHub Profile README:**
    - Copy the content from `README.md` to your `username/username` repository's README.md
    - Follow the `CUSTOMIZATION_GUIDE.md` to personalize it
-   - Replace `danielhardej` with your GitHub username in all URLs
+   - Replace `danielhardej` (in README.md) or `yourusername` (in README_SIMPLE.md) with your GitHub username in all URLs
 
 2. **For Project README:**
    - Adapt the sections you need for your project documentation
